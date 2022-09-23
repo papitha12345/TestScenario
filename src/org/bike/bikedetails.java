@@ -4,6 +4,8 @@ public class bikedetails implements ktmdetails{
 	private void bikedetails()
 	{
 		System.out.println("eter the ktm details");
+		System.out.println("hi");
+		
 	}
 public static void main(String[] args)
 {
