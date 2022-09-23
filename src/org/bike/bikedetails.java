@@ -11,6 +11,7 @@ public static void main(String[] args)
 	a.bikedetails();
 	a.bikespeed();
 	a.bikecost();
+	a.bikecost();
 	}
 
 public void bikespeed()
