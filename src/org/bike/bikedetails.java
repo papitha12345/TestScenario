@@ -1,15 +1,18 @@
 package org.bike;
 
 public class bikedetails implements ktmdetails{
-	private void bikedetails()
+	public void bikedetails()
 	{
 		System.out.println("eter the ktm details");
+		System.out.println("hi");
+		
 	}
 public static void main(String[] args)
 {
 	bikedetails a=new bikedetails();
 	a.bikedetails();
 	a.bikespeed();
+	a.bikecost();
 	a.bikecost();
 	}
 
